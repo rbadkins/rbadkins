@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rbadkins
+- 👀 I’m interested in AWS, Openshift, DevOps, distributed systems design.
+- 🌱 I’m currently learning .NET 6, AWS architecture, and event driven design.
+- 💞️ I’m looking to collaborate on common dev tools, Proof of concept projects for the enterprise.
+- 📫 How to reach me - message me on teams
